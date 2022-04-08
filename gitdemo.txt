@@ -22,6 +22,9 @@
 Действително качване в GitHub - git push -u origin master или main
 Клониране от GitHub
 Създайте нова папка и влезте в нея с cd
+Конфигуриране
+git config --global user.name "ekshan59"
+git config --global user.imail "ekshan59@abv.bg"
 Копирайте адреса от GitHub
 Клонирай репото с git clone https://github.com/ekshan59/git-test.git
 Проверка с ls
