@@ -25,3 +25,4 @@
 Копирайте адреса от GitHub
 Клонирай репото с git clone https://github.com/ekshan59/git-test.git
 Проверка с ls
+Добавяне на файл в GitHub - git push
