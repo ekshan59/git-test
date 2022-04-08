@@ -1,0 +1,27 @@
+Създаване на Репо
+Създай проект
+Влез в папката на проекта с cd
+Инициализирай проекта с git init
+Създай необходимите файлове
+Проверка с git status
+Добавяне на файлове към GIT с git add index.html или git add .
+Премахванe от git с git rm --cached index.html
+Описание на файл с commit -m "Описание"
+Игнориране на файлове с gitignore
+Създайте файл .gitignore
+Опишете вътре скритите файлове
+Създаване на клонове - git branch test
+Изтриване на клон - git branch -D test
+Смяна на клонове - git checkout test
+Проверка в кой клон сме - git branch
+Едновременно създаване на клон и преминване към него - git checkout -b test
+Съвместяване на клонове - git megre test
+Работа с GitHub
+Създаваме Repo със същото име като нашия проект
+Качване на проекта в GitHub - remote add origin https://github.com/ekshan59/git-test.git
+Действително качване в GitHub - git push -u origin master или main
+Клониране от GitHub
+Създайте нова папка и влезте в нея с cd
+Копирайте адреса от GitHub
+Клонирай репото с git clone https://github.com/ekshan59/git-test.git
+Проверка с ls
